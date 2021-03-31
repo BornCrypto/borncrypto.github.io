@@ -1,0 +1,18 @@
+.slider h3,
+.slider h5,
+.token h3,
+.coin h5 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5)
+}
+
+
+.parallax img {
+	filter: grayscale(1);
+}
+.progress {
+	height: 15px !important;
+
+}
+.sosmed ul {
+	float: left;
+}

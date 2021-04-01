@@ -6,9 +6,7 @@
 }
 
 
-.parallax img {
-	filter: grayscale(1);
-}
+
 .progress {
 	height: 15px !important;
 
